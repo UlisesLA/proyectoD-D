@@ -1,0 +1,57 @@
+{
+    "transfondos": [
+      {
+        "nombre": "Acólito",
+        "descripcion": "Has pasado tu vida al servicio de un templo a los dioses, realizando tareas sagradas."
+      },
+      {
+        "nombre": "Charlatán",
+        "descripcion": "Tienes una habilidad para engañar, con una preferencia por los trucos y las estafas."
+      },
+      {
+        "nombre": "Criminal",
+        "descripcion": "Tu pasado está lleno de delitos, lo que te otorga un conocimiento especial sobre los bajos fondos."
+      },
+      {
+        "nombre": "Ermitaño",
+        "descripcion": "Has vivido en aislamiento, lo que te ha dado insights únicos o revelaciones."
+      },
+      {
+        "nombre": "Héroe del Pueblo",
+        "descripcion": "Eres conocido por tus actos heroicos y liderazgo en un levantamiento contra la tiranía."
+      },
+      {
+        "nombre": "Noble",
+        "descripcion": "Naciste en la riqueza y el poder, familiarizado con el liderazgo desde una joven edad."
+      },
+      {
+        "nombre": "Orador Sabio",
+        "descripcion": "Tu búsqueda de conocimiento te ha llevado a descubrir secretos del multiverso."
+      },
+      {
+        "nombre": "Pícaro",
+        "descripcion": "La vida en la carretera te ha enseñado una variedad de trucos y habilidades para sobrevivir."
+      },
+      {
+        "nombre": "Soldado",
+        "descripcion": "Tu servicio en el ejército te ha preparado para el combate y la disciplina militar."
+      },
+      {
+        "nombre": "Artesano de Gremio",
+        "descripcion": "Eres miembro de un gremio artesanal, experto en la creación de objetos específicos."
+      },
+      {
+        "nombre": "Marinero",
+        "descripcion": "Has pasado tu vida navegando en los mares, familiarizado con el trabajo en un barco."
+      },
+      {
+        "nombre": "Urbano",
+        "descripcion": "Tu vida ha transcurrido en una gran ciudad, donde has aprendido a mezclarte y sobrevivir entre las multitudes."
+      },
+      {
+        "nombre": "Forastero",
+        "descripcion": "Creciste en la naturaleza, lejos de la civilización y el confort de las ciudades y pueblos."
+      }
+    ]
+  }
+  
