@@ -1,0 +1,22 @@
+{
+    "datos": [
+      {"nombre": "Humano", "descripcion": "Versátil y adaptable"},
+      {"nombre": "Elfo", "descripcion": "Elegantes, con afinidad por la magia y la naturaleza"},
+      {"nombre": "Enano", "descripcion": "Fuertes, resistentes, excelentes guerreros y artesanos"},
+      {"nombre": "Mediano", "descripcion": "Agiles, astutos y afortunados"},
+      {"nombre": "Draconido", "descripcion": "Descendientes de dragones, poderosos y orgullosos"},
+      {"nombre": "Gnomo", "descripcion": "Pequeños, ingeniosos y llenos de energía"},
+      {"nombre": "Semielfo", "descripcion": "Combinan rasgos humanos y élficos, carismáticos y diversos"},
+      {"nombre": "Semiorco", "descripcion": "Fuertes y tenaces, con una mezcla de rasgos humanos y orcos"},
+      {"nombre": "Tiefling", "descripcion": "Herencia infernal, conocidos por su apariencia única y habilidades mágicas"},
+      {"nombre": "Aarakocra", "descripcion": "Ser aviano, capaz de volar, nativos de planos elementales de aire"},
+      {"nombre": "Genasi", "descripcion": "Descendientes de genios, con habilidades elementales"},
+      {"nombre": "Tabaxi", "descripcion": "Seres felinos, curiosos y rápidos"},
+      {"nombre": "Firbolg", "descripcion": "Criaturas gigantes, amantes de la naturaleza y pacíficos"},
+      {"nombre": "Goliath", "descripcion": "Gigantes montañeses, fuertes y valientes"},
+      {"nombre": "Kenku", "descripcion": "Ave humanóide, expertos en imitación"},
+      {"nombre": "Tritón", "descripcion": "Anfibios, protectores de los océanos"},
+      {"nombre": "Líder", "descripcion": "Misteriosos, esquivos y vinculados a la magia del sueño"}
+    ]
+  }
+  

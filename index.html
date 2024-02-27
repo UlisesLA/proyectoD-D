@@ -9,38 +9,26 @@
 <body>
     <form id="hojaPersonaje">
         <fieldset>
-            <legend>Información del Personaje</legend>
-
-            <h1>Hola mundo</h1>
+            <legend>Hoja de Personaje</legend>
             
-            <div class="cabezera">
+            <div class="Cabezera">
 
-                <div class="caja-50">
-                    <label>Nombre:</label>
-                    <input type="text" id="nombre" name="nombre" placeholder="Nombre de Personaje">     
-                </div>
-                 
-                <div class="caja-50">
-                    <div>
-                        <label for="clase">Clase:</label>
-                        <br>
-                        <input type="text" id="clase" name="clase">
-
-                        <label for="transfondo">Transfondo:</label>
-                        <br>
-                        <select id="transfondo" aria-placeholder="Elije transfondo"></select>
-                    </div>
-                    <div>
-                        <label for="raza">Raza:</label>
-                        <br>
-                        <input type="text" id="raza" name="raza">
-
-                        <label for="xp">Puntos de XP:</label>
-                        <br>
-                        <input type="number" id="xp" name="xp">
-                    </div>
-                </div>
+                <div class="Personaje">
+                    <label>Nombre del Personaje</label>
+                    <input type="text" placeholder="Nombre del personaje">
+                </div>               
                 
+                <div class="Personaje">
+                    <label>Clase</label>
+                    <input type="text" placeholder="Clase del personaje">
+
+                    <label>Raza</label>
+                    <select id="raza"></select>
+
+                    <label>Trasfondo</label>
+                    <select id="trasfondo"  placeholder="Trasfondo del personaje"></select>
+                </div>
+
             </div>
             
 
@@ -88,5 +76,6 @@
             <input type="submit" value="Guardar Personaje">
         </fieldset>
     </form>
+    <script  src="/scrip.js"></script>
 </body>
 </html>

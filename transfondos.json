@@ -1,5 +1,5 @@
 {
-    "transfondos": [
+    "datos": [
       {
         "nombre": "Acólito",
         "descripcion": "Has pasado tu vida al servicio de un templo a los dioses, realizando tareas sagradas."
@@ -53,5 +53,7 @@
         "descripcion": "Creciste en la naturaleza, lejos de la civilización y el confort de las ciudades y pueblos."
       }
     ]
+
+    
   }
   

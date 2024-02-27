@@ -45,35 +45,15 @@ input[type="submit"] {
     color: white;
 }
 
-.cabezera {
+.Cabezera {
+    width: 100%;
     display: flex;
-    justify-content: space-between; /* Esto separa las dos cajas */
-    flex-wrap: wrap; /* Permite que las cajas se envuelvan si el espacio es insuficiente */
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
 }
 
-.caja-50 {
-    width: 48%; /* 48% para dejar un poco de espacio entre las cajas */
-    box-sizing: border-box; /* Asegura que el padding y border estén incluidos en el ancho */
-}
-
-.caja-50 div {
-    display: flex;
-    margin-bottom: 10px; /* Espacio entre los inputs y sus labels */
-}
-
-.caja-50 label, .caja-50 input {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center; 
-    margin: 0px 5px;
-    margin-bottom: 5px; /* Espacio después de cada label */
-}
-
-.caja-50 input {
-    padding: 8px;
-    margin-bottom: 10px; /* Espacio después de cada input */
-    border: 1px solid #ccc;
-    border-radius: 4px;
+.Personaje {
+    width: 50%;
+    padding: 0 .5%;
 }
